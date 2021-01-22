@@ -3,6 +3,8 @@ Synthea Patient Generator and FHIR: Fast Healthcare Interoperability Resources i
 
 ### Synthea Patient Generator
 
+Synthea is a Synthetic Patient Population Simulator. The goal is to output synthetic, realistic (but not real), patient data and associated health records in a variety of formats.
+
 ### FHIR: Fast Healthcare Interoperability Resources. Web standard for health interop
 
 ### CDS Hooks: Clinical Decision Support Hooks. Web standard for CDS in the EHR workflow
@@ -14,7 +16,14 @@ Synthea Patient Generator and FHIR: Fast Healthcare Interoperability Resources i
 - https://github.com/AlgorexHealth/bmi-fhir/blob/master/FHIR%20BMI%20Results.ipynb
 - https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0793-0
 - https://www.mitre.org/publications/project-stories/for-patient-data-synthea-is-the-missing-piece-in-health-it
+- https://notebook.community/GoogleCloudPlatform/healthcare/ml_solutions/generate_synthea_dataset
+- https://notebook.community/GoogleCloudPlatform/healthcare/ml_solutions/synthea_bqml_automl
+- https://developer.ibm.com/patterns/machine-learning-using-synthesized-patient-health-records/
 
+- https://github.com/IBM/example-health-machine-learning
+- https://raw.githubusercontent.com/IBM/example-health-machine-learning/master/diabetes-prediction.ipynb
+
+- https://datamine.unc.edu/
 
 ### INSTALL
 
