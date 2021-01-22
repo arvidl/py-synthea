@@ -18,9 +18,13 @@ Synthea Patient Generator and FHIR: Fast Healthcare Interoperability Resources i
 
 ### INSTALL
 
+Make a new conda environment:
 ```
 conda create -n synthea-fhir python=3.8
 conda activate synthea-fhir 
+```
+Install packages:
+```
 conda install git
 conda install pip
 conda install jupyter 
