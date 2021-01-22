@@ -1,11 +1,11 @@
 # py-synthea
 Synthea Patient Generator and FHIR: Fast Healthcare Interoperability Resources in Python
 
-## Synthea Patient Generator
+### Synthea Patient Generator
 
-## FHIR: Fast Healthcare Interoperability Resources. Web standard for health interop
+### FHIR: Fast Healthcare Interoperability Resources. Web standard for health interop
 
-## CDS Hooks: Clinical Decision Support Hooks. Web standard for CDS in the EHR workflow
+### CDS Hooks: Clinical Decision Support Hooks. Web standard for CDS in the EHR workflow
 
 - https://github.com/synthetichealth/synthea
 - https://github.com/smart-on-fhir/client-py
