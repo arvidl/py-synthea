@@ -33,6 +33,13 @@ conda install -c conda-forge altair vega_datasets
 pip install fhirclient 
 ```
 
+### Run
+
+```
+conda activate synthea-fhir 
+jupyter notebook
+```
+
 ```
 python -m ipykernel install --user --name synthea-fhir --display-name "SYNTHEA-FHIR"
 ```
